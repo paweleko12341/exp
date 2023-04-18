@@ -1,0 +1,2 @@
+_G.Key = "piotrek224403l"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sulfate1/PsxScripts/main/PsxLoader"))()
